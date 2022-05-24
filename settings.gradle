@@ -9,6 +9,10 @@ pluginManagement {
             url 'https://oss.sonatype.org/content/repositories/snapshots/'
             name 'OSS-Sonatype'
         }
+
+        maven {
+            url "https://maven.google.com"
+        }
     }
 }
 dependencyResolutionManagement {

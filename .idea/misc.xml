@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Projects/Android/OSM/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Projects/Android/OSM/app/src/main/res/layout/activity_main.xml" value="0.22479721900347624" />
+        <entry key="..\:/Projects/Android/OSM/app/src/main/res/layout/fragment_home.xml" value="0.2421875" />
+        <entry key="..\:/Projects/Android/OSM/app/src/main/res/layout/fragment_profile.xml" value="0.2421875" />
+        <entry key="..\:/Projects/Android/OSM/app/src/main/res/layout/fragment_search.xml" value="0.2421875" />
+        <entry key="..\:/Projects/Android/OSM/app/src/main/res/layout/fragment_settings.xml" value="0.2421875" />
+        <entry key="..\:/Projects/Android/OSM/app/src/main/res/menu/button_nav.xml" value="0.2421875" />
       </map>
     </option>
   </component>
